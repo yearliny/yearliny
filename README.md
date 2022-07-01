@@ -1,4 +1,4 @@
-![Yaniel Yu Banner](https://github.com/yearliny/yearliny/raw/master/images/banner.png)
+![Yaniel Yu Banner](https://raw.githubusercontent.com/yearliny/yearliny/main/images/banner.png)
 ## 🎗 More about me
 
 ```kotlin
